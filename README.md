@@ -79,11 +79,13 @@ Esta sección detalla las decisiones arquitectónicas que garantizan la robustez
 
 ## 📸 Sneak Peek (Interfaz)
 
-> *Las capturas de pantalla se actualizarán tras el lanzamiento oficial de la plataforma.*
+> Las capturas de pantalla se actualizarán tras el lanzamiento oficial de la plataforma.
 
-* **Storefront:** (assets/Home.png)
-* **Admin Panel:** (assets/Admin.png)
-* ** Motor de Ingesta (Excel/TSV) ** (assets/Nora Joyeros _ Alta Joyería - Screencastify - April 21, 2026 1_27 PM.gif)
+* **Storefront:** ![Storefront](assets/Home.png)
+
+* **Admin Panel:** ![Admin Panel](assets/Admin.png)
+
+* **Motor de Ingesta (Excel/TSV):** ![Motor de Ingesta](assets/ingesta-datos.gif)
 ---
 
 ## 👨‍💻 Sobre el Autor
