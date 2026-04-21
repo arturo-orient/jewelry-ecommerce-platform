@@ -90,11 +90,11 @@ Esta sección detalla las decisiones arquitectónicas que garantizan la robustez
 
 ## 👨‍💻 Sobre el Autor
 
-* [cite_start]**Nombre:** Arturo Orient Romero [cite: 2]
-* [cite_start]**Rol:** Junior Web Developer & Cybersecurity [cite: 3]
-* [cite_start]**Localización:** Valencia, España [cite: 4]
-* [cite_start]**Formación Destacada:** * Especialización en Ciberseguridad (CISCO & Palo Alto) - 2026[cite: 15].
-    * [cite_start]FP Superior en Desarrollo de Aplicaciones Web - 2025[cite: 38].
+* **Nombre:** Arturo Orient Romero
+* **Rol:** Junior Web Developer & Cybersecurity
+* **Localización:** Valencia, España
+* **Formación Destacada:** * Especialización en Ciberseguridad (CISCO & Palo Alto) - 2026.
+    *FP Superior en Desarrollo de Aplicaciones Web - 2025.
 
 ---
 *Para más detalles sobre mi perfil técnico, visita mi [LinkedIn](https://www.linkedin.com/in/arturo-orient-romero/) o mi perfil principal de [GitHub](https://github.com/Matalentajas).*
