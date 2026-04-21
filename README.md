@@ -81,9 +81,9 @@ Esta sección detalla las decisiones arquitectónicas que garantizan la robustez
 
 > Las capturas de pantalla se actualizarán tras el lanzamiento oficial de la plataforma.
 
-* **Storefront:** ![Storefront](assets/Home.png)
+* **Storefront:** ![Storefront](assets/Home.pdf)
 
-* **Admin Panel:** ![Admin Panel](assets/Admin.png)
+* **Admin Panel:** ![Admin Panel](assets/Admin.pdf)
 
 * **Motor de Ingesta (Excel/TSV):** ![Motor de Ingesta](assets/ingesta-datos.gif)
 ---
